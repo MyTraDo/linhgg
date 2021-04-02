@@ -1,7 +1,7 @@
 <?php
 session_start();
 ?>
-<form method="POST" action="login.php">
+<form method="POST" action="login sucessfull">
 	<fieldset>
 	    <legend>Đăng nhập</legend>
 	    	<table>
